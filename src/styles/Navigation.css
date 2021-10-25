@@ -1,0 +1,14 @@
+#header{
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%);
+    z-index: 100;
+} 
+
+#navbar{
+    background: rgba( 255, 255, 255, 0.25 );
+    box-shadow: 0 8px 32px 0 rgba(63, 21, 3, 0.47);
+    backdrop-filter: blur( 2px );
+    -webkit-backdrop-filter: blur( 2px );
+    border-radius: 10px;
+}
